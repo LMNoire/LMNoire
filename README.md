@@ -3,7 +3,7 @@
   
 - 👀 I’m interested in new technologies in every domains and I really enjoy the logic behind web development. But I also like nature, sport and seeing my friends outside 
 
-- 🌱 I’m currently learning DWWM Web development and mobile, including for now : HTML, CSS, PHP / Algorithms, arrays, create and call functions in PHP using MVC pattern / Tools : Visual Studio Code and Github / Next is Javascript, Data base, React, Symfony.. / Should end in July 2024
+- 🌱 I’m currently learning DWWM Web development and mobile, full stack, including for now : HTML, CSS, PHP / Algorithms, arrays, create and call functions in PHP using MVC pattern / Tools : Visual Studio Code and Github / Next is Javascript, Data base, React, Symfony.. / Should end in July 2024
   
 - 💞️ I’m looking to collaborate on beginners projects (HTML, CSS, PHP). I'm also looking for a one or two months stage starting May 2024 for my Web Development formation ! 
 
