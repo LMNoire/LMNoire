@@ -7,8 +7,7 @@
   
 - 💞️ I’m looking to collaborate on beginners projects (HTML, CSS, PHP). I'm also looking for a one or two months stage starting May 2024 for my Web Development formation ! 
 
-- 📫 How to reach me ... You can send me a message at selim.coulombel@live.fr for any contact,
-      I will update this all along my journey, especially during my formation. Thank you for reading !
+- 📫 How to reach me ... You can send me a message at selim.coulombel@live.fr for any contact. I will update this all along my journey, especially during my formation. Thank you for reading !
   
 <!---
 LMNoire/LMNoire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
