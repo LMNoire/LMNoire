@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @LMNoire but you can call me Selim Coulombel !
-      I'm 34 and I live in France, near Lille.
+- 👋 Selim Coulombel, 34 ans, vivant à Roubaix près de Lille
   
-- 👀 I’m interested in new technologies in every domains and I really enjoy the logic behind web development. But I also like nature, sport and seeing my friends outside 
+- 👀 Intéressé par les nouvelles technologies, notamment l'informatique avec lequel j'ai grandi, j'aime beaucoup la logique qui se cache derrière le développement. J'apprécie également sortir entre amis et profiter du soleil ! Curieux de nature, j'aime découvrir de nouvelles choses, ma veille technologique allant des cryptomonnaies à l'astrophotographie.
 
-- 🌱 I’m currently learning DWWM Web development and mobile at the AFPA in Roubaix, full stack, including for now : HTML, CSS, PHP / Algorithms, arrays, create and call functions in PHP using MVC pattern / Tools : Visual Studio Code and Github / Next is Javascript, Data base, React, Symfony.. / Should end in July 2024.
+- 🌱 Actuellement en formation MS Développeur front-end & back-end à l'AFPA de Roubaix et ce jusqu'en mi-2024, n'hésitez pas à consulter mon repository MS-Dev-2024 (https://github.com/LMNoire/MS-Dev-2024) pour plus d'informations sur les compétences et outils utilisés 
   
-- 💞️ I’m looking to collaborate on beginners projects (HTML, CSS, PHP). I'm also looking for a one or two months stage starting May 2024 for my Web Development formation ! 
+- 💞️ Ma recherche se porte actuellement sur un stage d'un mois (voir deux) afin de valider ma formation, de mi-Mai à mi-Juin 2024. Une fois le titre obtenu, je souhaiterais obtenir un CDI en tant que développeur junior. J'ai également pour projet de passer une certification Google de Data Analyst afin d'élargir mon champ de compétences.
 
-- 📫 How to reach me : You can send me a message at selim.coulombel@live.fr for any contact. My Linkedin is coming soon, as a portfolio. I will update this all along my journey, especially during my formation. Thank you for reading !
+- 📫 Pour tout contact, vous pouvez m'écrire à selim.coulombel@live.fr / Pour décembre, un linkedin est prévu, ainsi qu'un portfolio ! Merci pour votre lecture 👋
   
 <!---
 LMNoire/LMNoire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
