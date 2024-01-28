@@ -1,6 +1,6 @@
 - 👋 Selim Coulombel, 34 ans, vivant à Roubaix près de Lille
   
-- 👀 Intéressé par les nouvelles technologies, notamment l'informatique avec lequel j'ai grandi, j'aime beaucoup la logique qui se cache derrière le développement. J'apprécie également sortir entre amis et profiter du soleil ! Curieux de nature, j'aime découvrir de nouvelles choses, ma veille technologique allant des cryptomonnaies à l'astrophotographie.
+- 👀 Intéressé par les nouvelles technologies, notamment l'informatique avec lequel j'ai grandi, j'aime beaucoup la logique qui se cache derrière le développement. J'apprécie également sortir entre amis et profiter du soleil ! Curieux de nature, j'aime découvrir de nouvelles choses, ma veille technologique allant des cryptomonnaies à l'IA en passant par l'astrophotographie.
 
 - 🌱 Actuellement en formation MS Développeur full stack à l'AFPA de Roubaix et ce jusqu'en mi-2024, n'hésitez pas à consulter mon repository MS-Dev-2024 (https://github.com/LMNoire/MS-Dev-2024) pour plus d'informations sur les compétences et outils acquis ou en cours d'acquisition.
   
