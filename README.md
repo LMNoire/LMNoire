@@ -4,7 +4,7 @@
 
 - 🌱 Actuellement en formation MS Développeur full stack à l'AFPA de Roubaix et ce jusqu'en juin 2024, n'hésitez pas à consulter mon repository MS-Dev-2024 (https://github.com/LMNoire/MS-Dev-2024) pour plus d'informations sur les compétences et outils abordés durant celle-ci.
   
-- 💞️ Ma recherche se porte actuellement sur un stage d'un mois (voir deux) afin de valider ma formation, du 6 mai au 6 juin 2024. Une fois le titre obtenu, j'aimerais obtenir un CDI en tant que développeur full stack. J'ai également pour projet de passer la certification Google Data Analyst afin d'élargir mon champ de compétences.
+- 💞️ Ma recherche se porte actuellement sur un CDI en tant que développeur full stack. J'ai également pour projet de passer la certification Google Data Analyst afin d'élargir mon champ de compétences.
 
 - 📫 Pour tout contact, vous pouvez m'écrire à selim.coulombel@live.fr mais aussi sur linkedin www.linkedin.com/in/selim-coulombel-9745442a4
 -  N'hésitez pas à consulter mon portfolio, mes différents projets ainsi que mon CV ou mon stack technique complet sur www.coulombelselim.fr ! Merci pour votre lecture 👋
