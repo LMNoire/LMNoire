@@ -1,4 +1,4 @@
-- 👋 Selim Coulombel, 34 ans, vivant à Roubaix près de Lille
+- 👋 Selim Coulombel, 35 ans, vivant à Roubaix près de Lille
   
 - 👀 Intéressé par les nouvelles technologies, notamment l'informatique avec lequel j'ai grandi, j'aime beaucoup la logique qui se cache derrière le développement. J'apprécie également sortir entre amis et profiter du soleil ! Curieux de nature, j'aime découvrir de nouvelles choses, ma veille technologique allant des cryptomonnaies à l'IA en passant par l'astrophotographie.
 
