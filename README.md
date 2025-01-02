@@ -7,7 +7,7 @@
 - 💞️ Actuellement à la recherche d'une alternance pour 2025 ou d'un CDI en tant que développeur full stack, de préférence en présentiel ou hybride sur la métropole lilloise mais également ouvert à d'autres propositions ! J'ai aussi pour projet de passer la certification AWS Cloud Practitionner afin d'élargir mon champ de compétences.
 
 - 📫 Pour tout contact, vous pouvez m'écrire à selim.coulombel@live.fr mais également sur linkedin www.linkedin.com/in/selim-coulombel-9745442a4
--  N'hésitez pas à consulter mes différents projets ainsi que mon CV et ma stack technique ! Merci pour votre lecture 👋
+- Merci pour votre lecture 👋
   
 <!---
 LMNoire/LMNoire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
